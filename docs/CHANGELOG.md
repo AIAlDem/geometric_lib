@@ -1,0 +1,8 @@
+- `29b4224` docstringed a square.py  
+- `6fae2cb` docstringed a rectangle.py  
+- `fe19a17` docstringed a circle.py  
+- `897442a` Documentation in README.md  
+- `10ba88b` Perimeter and area in rectangle.py and triangle.py + Complete the README.md  
+- `5634281` Add rectangle.py and triangle.py  
+- `d078c8d` L-03: Docs added    
+- `8ba9aeb` L-03: Circle and square added  
