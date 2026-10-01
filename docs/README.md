@@ -18,15 +18,17 @@
 ```
 
 ## Формулы для вычисления:
-```text
+
 ### Area
+```
 - Circle: S = πR²
 - Rectangle: S = ab
 - Square: S = a²
 - Triangle: S = a * h / 2
 ```
-```text
+
 ### Perimeter
+```
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
