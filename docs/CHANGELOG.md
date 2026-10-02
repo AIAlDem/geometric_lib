@@ -1,3 +1,5 @@
+- `3fc06ad` fixed README.md  
+- `1bd2e6c` reload the changelog.md  
 - `f9b5b13` fixed README.md  
 - `1ac4bfd` Add CHANGELOG.md  
 - `10ebdd9` docstringed a triangle.py  
