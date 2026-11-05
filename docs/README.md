@@ -158,3 +158,34 @@
     print(area(3, 4)) # 6
     print(perimeter(3, 4, 5)) # 12
     ```
+
+## Модульное тестирование:
+
+Для каждого из модулей:
+- `circle.py`
+- `square.py`
+- `rectangle.py`
+- `triangle.py`
+
+Добавлены unit-тесты c названиями соответственно:
+- `test_circle.py`
+- `test_rectangle.py`
+- `test_square.py`
+- `test_triangle.py`
+
+Итоговая структура библиотеки:
+
+`geometric_lib`  
+    └── `tests`
+        ├── `test_circle.py`
+        ├── `test_rectangle.py`
+        ├── `test_square.py`
+        └── `test_triangle.py`
+    ├── `circle.py`  
+    ├── `rectangle.py`  
+    ├── `square.py`  
+    ├── `triangle.py`  
+    └── `docs`  
+         ├── `README.md`  
+         └── `CHANGELOG.md`  
+```
